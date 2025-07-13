@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chanikya Kothi</h1>
 <h3 align="center">Aspiring Data Engineer · Data Analytics Enthusiast · Cloud & ML Explorer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7WI6Jm63y1zjOZQo/giphy.gif" alt="Coding GIF" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Data%20Engineer%20%26%20Analytics%20Roles-0A66C2?style=flat-square&logo=github" alt="Hire Me Badge" />
