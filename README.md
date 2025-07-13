@@ -1,63 +1,91 @@
-# 👋 Hi there, I'm Chanikya Kothi
+<h1 align="center">Hi 👋, I'm Chanikya Kothi</h1>
+<h3 align="center">Aspiring Data Engineer · Data Analytics Enthusiast · Cloud & ML Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Data+Engineer;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Always+learning+and+building...+🚀" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Engineer%20%26%20Analytics%20Roles-0A66C2?style=flat-square&logo=github" alt="Hire Me Badge" />
+</p>
 
 ---
 
-## 🔹 Summary
+## 📝 About Me
 
-🎯 *Aspiring Data Engineer / Data Analyst*  
-Passionate about solving real-world problems using **data pipelines, analytics, machine learning, and cloud technologies.**  
-I enjoy building scalable systems and extracting actionable insights from data.
+I’m **Chanikya Kothi**, an aspiring **Data Engineer / Data Analyst**, passionate about designing **data pipelines, analytics dashboards, and cloud-native solutions**.
+
+- 🎓 **Master’s in Data Science**, Wichita State University  
+- 🧰 Skilled in ETL pipelines, SQL, Python, Power BI, and cloud platforms  
+- 🌟 Interests: Data engineering, analytics, machine learning, and workflow automation
 
 ---
 
-## 🎬 Animated banner
+## 🧠 Skills
 
-![Animated](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Data+Engineer;Data+Analytics+Enthusiast;Cloud+%7C+SQL+%7C+Python+%7C+Power+BI;Always+learning+and+building...+🚀)
+**Programming & Query Languages:**  
+Python 🐍 | SQL 🗄️ | R 📐 | Bash
+
+**Data Science & ML:**  
+pandas | NumPy | scikit-learn | XGBoost | TensorFlow | Keras
+
+**Data Visualization:**  
+Power BI | Tableau | matplotlib | seaborn | Plotly
+
+**Data Engineering:**  
+Airflow | dbt | Spark | Kafka | ETL/ELT pipelines
+
+**Cloud Platforms:**  
+AWS ☁️ (S3, Lambda, RDS) | GCP ☁️ (BigQuery, Cloud Functions)
+
+**Databases:**  
+PostgreSQL | MySQL | SQLite
+
+**DevOps & Tools:**  
+Git | GitHub | Docker 🐳 | Jupyter Notebook | VS Code
 
 ---
 
 ## 🎓 Education
 
-- **Master’s in Data Science**, Wichita State University
+- **Master’s in Data Science**  
+  Wichita State University
 
 ---
 
-## 🛠️ Skills
+## ⚡ Hobbies
 
-**Languages:**  
-Python, SQL, R, Bash
-
-**Libraries & Frameworks:**  
-pandas, NumPy, scikit-learn, TensorFlow, Keras, XGBoost, PyTorch, Prophet, statsmodels, dbt
-
-**Visualization Tools:**  
-Power BI, Tableau, matplotlib, seaborn
-
-**Cloud & Data Platforms:**  
-AWS (S3, Lambda, EC2, RDS), GCP (BigQuery, Cloud Functions, Dataflow), Snowflake
-
-**Data Engineering:**  
-Airflow, ETL/ELT pipelines, Spark, Kafka, Hadoop
-
-**Databases:**  
-PostgreSQL, MySQL, SQLite, DynamoDB
-
-**Tools:**  
-Git, GitHub, Docker, Jupyter Notebooks, VS Code
-
-**Others:**  
-MLOps fundamentals, Model deployment, APIs
+- 🚘 Cars  
+- 🛣️ Long drives  
+- 👥 Spending time with friends  
+- ✈️ Trips & exploring new places
 
 ---
 
-## 🚗 Hobbies
+## 📂 Featured Projects
 
-- Cars 🚘  
-- Long drives 🛣️  
-- Friends 👥  
-- Trips ✈️
+- 🔹 [Customer Churn Prediction](https://github.com/Chanikya333-1/customer-churn-prediction-using--ML)  
+  Machine learning pipeline to predict customer churn.
+
+- 🔹 [Retail Sales Forecasting](https://github.com/Chanikya333-1/retail-sales-forecasting)  
+  Time series forecasting using ARIMA, Prophet, XGBoost & LSTM.
+
+- 🔹 [HR Analytics Dashboard](https://github.com/Chanikya333-1/hr-analytics-dashboard)  
+  Interactive Power BI dashboard for employee performance & attrition insights.
+
+- 🔹 [Handwritten Digit Recognition](https://github.com/Chanikya333-1/mnist-digit-recognition)  
+  CNN model for MNIST digit classification.
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to ⭐ star my repositories or connect with me on [LinkedIn](https://linkedin.com/in/chanikya-kothi).  
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/Chanikya333-1"><img src="https://img.shields.io/badge/GitHub-Chanikya--1-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/chanikya-kothi"><img src="https://img.shields.io/badge/LinkedIn-Chanikya%20Kothi-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:chanikyareddy682@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<h3 align="center">⚡ Data pipelines, dashboards, and scalable solutions — one project at a time! ⚡</h3>
