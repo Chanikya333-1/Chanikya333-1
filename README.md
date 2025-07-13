@@ -2,10 +2,6 @@
 <h3 align="center">Aspiring Data Engineer · Data Analytics Enthusiast · Cloud & ML Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Data+Engineer;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Always+learning+and+building...+🚀" alt="Typing Animation"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Data%20Engineer%20%26%20Analytics%20Roles-0A66C2?style=flat-square&logo=github" alt="Hire Me Badge" />
 </p>
 
@@ -16,8 +12,25 @@
 I’m **Chanikya Kothi**, an aspiring **Data Engineer / Data Analyst**, passionate about designing **data pipelines, analytics dashboards, and cloud-native solutions**.
 
 - 🎓 **Master’s in Data Science**, Wichita State University  
+- 🎓 **B.Tech in Electronics & Communication Engineering**, SNIST  
 - 🧰 Skilled in ETL pipelines, SQL, Python, Power BI, and cloud platforms  
-- 🌟 Interests: Data engineering, analytics, machine learning, and workflow automation
+- 🌟 Interests: Data engineering, analytics, machine learning, workflow automation
+
+---
+
+## 🎓 Education
+
+- **Master’s in Data Science**  
+  Wichita State University
+
+- **Bachelor of Technology in Electronics & Communication Engineering**  
+  SNIST
+
+---
+
+## 🎖️ Certifications
+
+- 🌩️ **AWS Certified Cloud Practitioner**
 
 ---
 
@@ -46,13 +59,6 @@ Git | GitHub | Docker 🐳 | Jupyter Notebook | VS Code
 
 ---
 
-## 🎓 Education
-
-- **Master’s in Data Science**  
-  Wichita State University
-
----
-
 ## ⚡ Hobbies
 
 - 🚘 Cars  
@@ -62,21 +68,7 @@ Git | GitHub | Docker 🐳 | Jupyter Notebook | VS Code
 
 ---
 
-## 📂 Featured Projects
 
-- 🔹 [Customer Churn Prediction](https://github.com/Chanikya333-1/customer-churn-prediction-using--ML)  
-  Machine learning pipeline to predict customer churn.
-
-- 🔹 [Retail Sales Forecasting](https://github.com/Chanikya333-1/retail-sales-forecasting)  
-  Time series forecasting using ARIMA, Prophet, XGBoost & LSTM.
-
-- 🔹 [HR Analytics Dashboard](https://github.com/Chanikya333-1/hr-analytics-dashboard)  
-  Interactive Power BI dashboard for employee performance & attrition insights.
-
-- 🔹 [Handwritten Digit Recognition](https://github.com/Chanikya333-1/mnist-digit-recognition)  
-  CNN model for MNIST digit classification.
-
----
 
 ## 🔗 Let’s Connect
 
