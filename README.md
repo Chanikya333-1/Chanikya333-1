@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring Data Engineer · Data Analytics Enthusiast · Cloud & ML Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7WI6Jm63y1zjOZQo/giphy.gif" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" alt="Boy Coding GIF" />
 </p>
+
 
 
 <p align="center">
