@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanikya Kothi</h1>
 <h3 align="center">Aspiring Data Engineer · Data Analytics Enthusiast · Cloud & ML Explorer</h3>
-![Coding GIF](https://media.giphy.com/media/3o7WI6Jm63y1zjOZQo/giphy.gif)
 
 
 <p align="center">
